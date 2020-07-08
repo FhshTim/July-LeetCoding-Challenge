@@ -6,6 +6,8 @@
 [July LeetCoding Challenge - 5 Hamming Distance](https://medium.com/@xyrot94/july-leetcoding-challenge-461-hamming-distance-2f1e8e1e84ce)  
 [July LeetCoding Challenge - 6 Plus One](https://medium.com/@xyrot94/july-leetcoding-challenge-66-plus-one-3345d42226e1)  
 [July LeetCoding Challenge - 7 Island Perimeter](https://medium.com/@xyrot94/july-leetcoding-challenge-463-island-perimeter-61f64d599fcd)  
+[July LeetCoding Challenge - 8 3Sum](https://medium.com/@xyrot94/july-leetcoding-challenge-15-3sum-fd0ad6ffb705)  
+
 
 
 
