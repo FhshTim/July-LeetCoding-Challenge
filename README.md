@@ -7,6 +7,8 @@
 [July LeetCoding Challenge - 6 Plus One](https://medium.com/@xyrot94/july-leetcoding-challenge-66-plus-one-3345d42226e1)  
 [July LeetCoding Challenge - 7 Island Perimeter](https://medium.com/@xyrot94/july-leetcoding-challenge-463-island-perimeter-61f64d599fcd)  
 [July LeetCoding Challenge - 8 3Sum](https://medium.com/@xyrot94/july-leetcoding-challenge-15-3sum-fd0ad6ffb705)  
+[July LeetCoding Challenge - 9 Maximum Width of Binary Tree](https://medium.com/@xyrot94/july-leetcoding-challenge-662-maximum-width-of-binary-tree-f0b9f41df815)  
+
 
 
 
