@@ -10,6 +10,8 @@
 [July LeetCoding Challenge - 9 Maximum Width of Binary Tree](https://medium.com/@xyrot94/july-leetcoding-challenge-662-maximum-width-of-binary-tree-f0b9f41df815)  
 [July LeetCoding Challenge - 10 Flatten a Multilevel Doubly Linked List](https://medium.com/@xyrot94/july-leetcoding-challenge-430-flatten-a-multilevel-doubly-linked-list-dc3235ca5e38)  
 [July LeetCoding Challenge - 11 Subsets](https://medium.com/@xyrot94/july-leetcoding-challenge-78-subsets-c80bb469a966)  
+[July LeetCoding Challenge - 12 Reverse Bits](https://medium.com/@xyrot94/july-leetcoding-challenge-190-reverse-bits-d8398120f0d)  
+
 
 
 
