@@ -12,6 +12,8 @@
 [July LeetCoding Challenge - 11 Subsets](https://medium.com/@xyrot94/july-leetcoding-challenge-78-subsets-c80bb469a966)  
 [July LeetCoding Challenge - 12 Reverse Bits](https://medium.com/@xyrot94/july-leetcoding-challenge-190-reverse-bits-d8398120f0d)  
 [July LeetCoding Challenge - 13 Same Tree](https://medium.com/@xyrot94/july-leetcoding-challenge-100-same-tree-b0af27b25b20)  
+[July LeetCoding Challenge - 14 Angle Between Hands of a Clock](https://medium.com/@xyrot94/july-leetcoding-challenge-1344-angle-between-hands-of-a-clock-16f5bf733100)  
+
 
 
 
