@@ -14,6 +14,8 @@
 [July LeetCoding Challenge - 13 Same Tree](https://medium.com/@xyrot94/july-leetcoding-challenge-100-same-tree-b0af27b25b20)  
 [July LeetCoding Challenge - 14 Angle Between Hands of a Clock](https://medium.com/@xyrot94/july-leetcoding-challenge-1344-angle-between-hands-of-a-clock-16f5bf733100)  
 [July LeetCoding Challenge - 15 Reverse Words in a String](https://medium.com/@xyrot94/july-leetcoding-challenge-151-reverse-words-in-a-string-2788b6ba5f17)  
+[July LeetCoding Challenge - 16 Pow(x, n)](https://medium.com/@xyrot94/july-leetcoding-challenge-50-pow-x-n-906a0b6835c7)  
+
 
 
 
