@@ -18,6 +18,8 @@
 [July LeetCoding Challenge - 17 Top K Frequent Elements](https://medium.com/@xyrot94/july-leetcoding-challenge-347-top-k-frequent-elements-4df67b32b932)  
 [July LeetCoding Challenge - 18 Course Schedule II](https://medium.com/@xyrot94/july-leetcoding-challenge-210-course-schedule-ii-f013d9bfd580)  
 [July LeetCoding Challenge - 19 Add Binary](https://medium.com/@xyrot94/july-leetcoding-challenge-67-add-binary-79007b30b2d0)  
+[July LeetCoding Challenge - 20 Remove Linked List Elements](https://medium.com/@xyrot94/july-leetcoding-challenge-203-remove-linked-list-elements-9df20972d476)  
+
 
 
 
