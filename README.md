@@ -20,6 +20,8 @@
 [July LeetCoding Challenge - 19 Add Binary](https://medium.com/@xyrot94/july-leetcoding-challenge-67-add-binary-79007b30b2d0)  
 [July LeetCoding Challenge - 20 Remove Linked List Elements](https://medium.com/@xyrot94/july-leetcoding-challenge-203-remove-linked-list-elements-9df20972d476)  
 [July LeetCoding Challenge - 21 Word Search](https://medium.com/@xyrot94/july-leetcoding-challenge-79-word-search-f765d80d6bd8)  
+[July LeetCoding Challenge - 22 Binary Tree Zigzag Level Order Traversal](https://medium.com/@xyrot94/july-leetcoding-challenge-103-binary-tree-zigzag-level-order-traversal-a4b5a78063f8)  
+
 
 
 
