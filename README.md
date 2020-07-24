@@ -22,6 +22,8 @@
 [July LeetCoding Challenge - 21 Word Search](https://medium.com/@xyrot94/july-leetcoding-challenge-79-word-search-f765d80d6bd8)  
 [July LeetCoding Challenge - 22 Binary Tree Zigzag Level Order Traversal](https://medium.com/@xyrot94/july-leetcoding-challenge-103-binary-tree-zigzag-level-order-traversal-a4b5a78063f8)  
 [July LeetCoding Challenge - 23 Single Number III](https://medium.com/@xyrot94/july-leetcoding-challenge-260-single-number-iii-f834791888ca)  
+[July LeetCoding Challenge - 24 All Paths From Source to Target](https://medium.com/@xyrot94/july-leetcoding-challenge-797-all-paths-from-source-to-target-8fe8c801618e)  
+
 
 
 
