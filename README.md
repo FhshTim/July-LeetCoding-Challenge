@@ -23,6 +23,7 @@
 [July LeetCoding Challenge - 22 Binary Tree Zigzag Level Order Traversal](https://medium.com/@xyrot94/july-leetcoding-challenge-103-binary-tree-zigzag-level-order-traversal-a4b5a78063f8)  
 [July LeetCoding Challenge - 23 Single Number III](https://medium.com/@xyrot94/july-leetcoding-challenge-260-single-number-iii-f834791888ca)  
 [July LeetCoding Challenge - 24 All Paths From Source to Target](https://medium.com/@xyrot94/july-leetcoding-challenge-797-all-paths-from-source-to-target-8fe8c801618e)  
+[July LeetCoding Challenge - 25 Find Minimum in Rotated Sorted Array II](https://medium.com/@xyrot94/july-leetcoding-challenge-154-find-minimum-in-rotated-sorted-array-ii-7dc7184cc6da)  
 
 
 
