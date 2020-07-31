@@ -28,6 +28,9 @@
 [July LeetCoding Challenge - 27 Construct Binary Tree from Inorder and Postorder Traversal](https://medium.com/@xyrot94/july-leetcoding-challenge-106-construct-binary-tree-from-inorder-and-postorder-traversal-c8e5990c146d)  
 [July LeetCoding Challenge - 28 Task Scheduler](https://medium.com/@xyrot94/july-leetcoding-challenge-621-task-scheduler-fbfdd6e2ca40)  
 [July LeetCoding Challenge - 29 Best Time to Buy and Sell Stock with Cooldown](https://medium.com/@xyrot94/july-leetcoding-challenge-309-best-time-to-buy-and-sell-stock-with-cooldown-504ed06022ea)  
+[July LeetCoding Challenge - 30 Word Break II](https://medium.com/@xyrot94/july-leetcoding-challenge-140-word-break-ii-5f7672d9ad5e)  
+[July LeetCoding Challenge - 31 Climging Stairs](https://medium.com/@xyrot94/july-leetcoding-challenge-140-climbing-stairs-98bf0639b9c2)  
+
 
 
 
